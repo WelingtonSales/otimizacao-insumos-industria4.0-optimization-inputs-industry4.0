@@ -3,9 +3,11 @@
 Artefatos complementares do projeto de otimização de insumos com Edge AI
 
 
+
 **Autor:** Welington dos Santos Sales
 
 **Ano:** 2026
+
 
 
 **📋 Sobre o Projeto**
@@ -40,6 +42,8 @@ SALES, W. S. **Otimização de Insumos na Indústria 4.0: Artefatos Complementar
 **🛠️ Como Executar a Simulação**
 
 cd script-simulacao
+
 pip install -r requirements.txt
+
 python crpe_simulacao.py
 

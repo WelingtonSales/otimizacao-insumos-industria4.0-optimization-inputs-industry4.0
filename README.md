@@ -35,6 +35,7 @@ Fornecer todos os artefatos técnicos necessários para compreensão e implement
 SALES, W. S. **Otimização de Insumos na Indústria 4.0: Artefatos Complementares**. GitHub, 2026. Disponível em: [https://github.com/WelingtonSales/otimizacao-insumos-industria4.0-optimization-inputs-industry4.0.git]
 
 **🛠️ Como Executar a Simulação**
+
 cd script-simulacao
 pip install -r requirements.txt
 python crpe_simulacao.py

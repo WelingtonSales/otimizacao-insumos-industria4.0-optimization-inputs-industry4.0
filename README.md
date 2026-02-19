@@ -3,6 +3,7 @@
 Artefatos complementares do projeto de otimização de insumos com Edge AI
 
 **Autor:** Welington dos Santos Sales
+
 **Ano:** 2026
 
 **📋 Sobre o Projeto**

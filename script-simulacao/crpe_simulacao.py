@@ -81,7 +81,7 @@ print("\nTabela de CRPE por Fornecedor e Cenário (R$):")
 print(tabulate(tabela, headers='keys', tablefmt='grid', floatfmt='.2f'))
 
 # Melhor fornecedor por cenário
-print("\n" + "🏆 MELHOR FORNECEDOR POR CENÁRIO:")
+print("\n" + "MELHOR FORNECEDOR POR CENÁRIO:")
 print("-" * 40)
 for cenario in df['Cenário'].unique():
     df_cenario = df[df['Cenário'] == cenario]

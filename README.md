@@ -21,7 +21,9 @@ A Empresa Alfa decide compra de embalagens baseada apenas em custo unitário e d
 
 ## 📁 Estrutura do Repositório
 -- diagramas/ # Diagramas de arquitetura (C4 model)
+
 -- script-simulacao/ # Código Python para simulação do CRPE
+
 -- especificacoes/ # Especificações técnicas detalhadas
 
 ## 📚 Referência

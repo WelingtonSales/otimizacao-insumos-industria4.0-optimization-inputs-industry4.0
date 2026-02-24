@@ -25,7 +25,7 @@ A Empresa Alfa decide compra de embalagens baseada apenas em custo unitário e d
 -- especificacoes/ # Especificações técnicas detalhadas
 
 ## 📚 Referência
-SALES, W. S. **Otimização de Insumos na Indústria 4.0: Artefatos Complementares**. GitHub, 2026. Disponível em: https://github.com/WelingtonSales/otimizacao-insumos-industria4.0
+SALES, W. S. **Otimização de Insumos na Indústria 4.0: Artefatos Complementares**. GitHub, 2026. Disponível em: https://github.com/WelingtonSales/otimizacao-insumos-industria4.0-optimization-inputs-industry4.0.git
 
 ## 🛠️ Como Executar a Simulação
 ```bash
